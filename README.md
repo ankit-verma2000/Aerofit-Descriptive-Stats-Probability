@@ -14,6 +14,7 @@ Perform descriptive analytics to create a customer profile for each AeroFit trea
 For each AeroFit treadmill product, construct two-way contingency tables and compute all conditional and marginal probabilities along with their insights/impact on the business.
 
 # Dataset:
+Dataset link: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/125/original/aerofit_treadmill.csv?1639992749
 # Features:
 The company collected the data on individuals who purchased a treadmill from the AeroFit stores during the prior three months. The dataset has the following features:
 
