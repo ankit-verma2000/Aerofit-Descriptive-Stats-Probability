@@ -136,7 +136,7 @@ These insights enable **data-driven marketing strategies** and help **Aerofit** 
 ## 📚 Author  
 **Ankit Verma**  
 _Data Analyst | SQL • Python • Power BI • Machine Learning_  
-🔗 [LinkedIn](https://www.linkedin.com/in/ankit-verma) • [GitHub](https://github.com/ankitverma)
+🔗 [LinkedIn](https://www.linkedin.com/in/ankitvermads/) • [GitHub](https://github.com/ankit-verma2000)
 
 ---
 
